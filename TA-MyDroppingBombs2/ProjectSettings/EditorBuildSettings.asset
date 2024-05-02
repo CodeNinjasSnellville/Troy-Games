@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TroyDroppingBombs2413.unity
+    guid: 2ed2df52dfec55342946a5e418777dd0
+  - enabled: 1
+    path: Assets/Scenes/DroppingBombs.unity
+    guid: 85687c07a84d7014b9999283399f28d3
   m_configObjects: {}
